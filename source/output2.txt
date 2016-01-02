@@ -1,0 +1,14 @@
+Isabelle  is the root of the tree
+Don is the left child of Isabelle
+Ralph is the right child of Isabelle
+Wally is the right child of Ralph
+Isabelle  is the root of the tree
+Don is the left child of Isabelle
+Ralph is the right child of Isabelle
+Wally is the right child of Ralph
+Isabelle  is the root of the tree
+Don is the left child of Isabelle
+Ralph is the right child of Isabelle
+Wally is the right child of Ralph
+Isabelle  is the root of the tree
+Don is the left child of Isabelle

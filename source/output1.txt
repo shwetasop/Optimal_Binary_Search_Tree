@@ -1,0 +1,37 @@
+of  is the root of the tree
+and is the left child of of
+the is the right child of of
+a is the left child of and
+in is the right child of and
+he is the left child of in
+is is the right child of in
+that is the left child of the
+to is the right child of the
+was is the right child of to
+
+of  is the root of the tree
+and is the left child of of
+the is the right child of of
+a is the left child of and
+in is the right child of and
+he is the left child of in
+is is the right child of in
+that is the left child of the
+to is the right child of the
+was is the right child of to
+
+
+
+of  is the root of the tree
+and is the left child of of
+the is the right child of of
+a is the left child of and
+in is the right child of and
+he is the left child of in
+is is the right child of in
+that is the left child of the
+to is the right child of the
+was is the right child of to
+of  is the root of the tree
+and is the left child of of
+a is the left child of and
